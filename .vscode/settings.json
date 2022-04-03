@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "simpledb.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

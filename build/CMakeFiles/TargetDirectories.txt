@@ -1,0 +1,3 @@
+C:/Users/sreda/Downloads/C_programming_Proj/build/CMakeFiles/SDB.dir
+C:/Users/sreda/Downloads/C_programming_Proj/build/CMakeFiles/edit_cache.dir
+C:/Users/sreda/Downloads/C_programming_Proj/build/CMakeFiles/rebuild_cache.dir
